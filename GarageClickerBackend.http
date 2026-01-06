@@ -1,0 +1,6 @@
+@GarageClickerBackend_HostAddress = http://localhost:5168
+
+GET {{GarageClickerBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
